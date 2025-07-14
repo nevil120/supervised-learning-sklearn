@@ -1,1 +1,1 @@
-# supervised-learning
+# Supervised Learning using scikit-learn
